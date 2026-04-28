@@ -25,3 +25,11 @@ Features
 - hashlib & PBKDF2
 - wave module (audio processing)
 - struct, base64
+
+# 🛠️ Libraries Used
+
+🎨 GUI
+- CustomTkinter: Modern and attractive user interface create karne ke liye
+
+🔐 Security
+- cryptography: Messages ko encrypt aur decrypt karne ke liye (AES/Fernet)
